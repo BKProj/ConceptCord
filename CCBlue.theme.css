@@ -92,9 +92,6 @@ body #app-mount .guilds-2JjMmN [class*=pill] {
 body #app-mount .guilds-2JjMmN [class*=pill] span {
   border-radius: 4px 0 0 4px;
 }
-.content-2a4AW9{
-  height: 1050px !important;
-}
 .sidebar-1tnWFu{
   width: 25%;
 }
@@ -186,9 +183,6 @@ body #app-mount .guilds-2JjMmN [class*=pill] {
 body #app-mount .guilds-2JjMmN [class*=pill] span {
   border-radius: 4px 0 0 4px;
 }
-.content-2a4AW9{
-  height: 1050px !important;
-}
 /*custom min max close button animation*/
 .theme-dark .winButtonClose-3Q8ZH5 {
   transition: .6s;
@@ -228,6 +222,40 @@ body #app-mount .guilds-2JjMmN [class*=pill] span {
 [href*="youtu.be"],
 [href*="youtube.com"] {
     color:#c4302b !important;
+}
+/* Invidious */
+[href*="invidious.io"],
+[href*="invidious.snopyta.org"],
+[href*="invidious.kavin.rocks"],
+[href*="yt.funami.tech"],
+[href*="vid.puffyan.us"],
+[href*="invidious.namazso.eu"],
+[href*="yt.suckmy.site"],
+[href*="yt.artemislena.eu"],
+[href*="y.com.sb"],
+[href*="inv.bp.projectsegfau.lt"],
+[href*="invidious.esmailelbob.xyz"],
+[href*="invidious.flokinet.to"],
+[href*="invidious.tiekoetter.com"],
+[href*="inv.vern.cc"],
+[href*="invidious.slipfox.xyz"],
+[href*="watch.thekitty.zone"],
+[href*="invidious.dhusch.de"],
+[href*="inv.odyssey346.dev"],
+[href*="invidious.baczek.me"],
+[href*="invidious.weblibre.org"],
+[href*="invidious.privacydev.net"],
+[href*="invidious.drivet.xyz"],
+[href*="vid.priv.au"],
+[href*="invidious.lidarshield.cloud"],
+[href*="invidious.silur.me"],
+[href*="iv.melmac.space"],
+[href*="iv.ggtyler.dev"],
+[href*="invidious.epicsite.xyz"],
+[href*="invidious.sethforprivacy.com"],
+[href*="yt.oelrichsgarcia.de"],
+[href*="yewtu.be"] {
+    color:#e24d4d !important;
 }
 /* Twitch */
 [href*="twitch.tv"] {
