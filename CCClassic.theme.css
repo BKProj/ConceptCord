@@ -12,7 +12,6 @@
 @import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 :root {
-  --font: 0;
   --settingsicons: 0;
   --HSL-server-icon-size: 50px;  /* Size of the server icons | DEFAULT: 40px */
   --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
