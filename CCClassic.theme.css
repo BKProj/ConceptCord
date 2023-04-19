@@ -11,11 +11,22 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 @import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
+@import url('https://kckarnige.is-a.dev/improved-ui/base.css');
 :root {
   --settingsicons: 0;
   --HSL-server-icon-size: 50px;  /* Size of the server icons | DEFAULT: 40px */
   --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
   --HSL-server-direction: column; /* Direct of the server list. | Options: column, column-reverse | DEFAULT: column */
+  --main-color: var(--bandaged-blue); 
+  --ping-color: #f04747fe;
+  --selector-color: var(--main-color);
+  --wordmark-text-color: #72767d;
+  --wordmark-text: "ConceptCord"; /* This should only be text (Example: Lightcord, Binguscord, BetterDiscord, Discord 2, I think you get it) */
+  --tooltip-color: var(--main-color);
+  --tooltip-text-color: #fff;
+  --default-folder-color: #7289DA;
+  --home-icon: var(--classic-clyde); /* '--rebrand-clyde' or '--classic-clyde' */
+  --accent: var(--main-color);
 }
 
 
